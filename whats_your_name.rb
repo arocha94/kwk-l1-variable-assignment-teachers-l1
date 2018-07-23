@@ -1,2 +1,4 @@
 puts "What is your name?"
-gets 
+name = gets 
+
+puts "Hello #{name}!"
